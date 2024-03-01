@@ -2,7 +2,7 @@
 
 ## Description
 
-The Journaling App is a Python-based desktop application designed to offer users a simple yet engaging platform to journal their daily experiences, feelings and activities. Developed with `tkinter`, this app stands out for its user-friendly interface, seamless navigation, and personalized journaling experience. It encourages users to reflect on their day, fostering a habit of mindfulness and self-awareness.
+The Journaling App is a Python-based desktop application designed as a personalized and gamified journaling experience. What do these buzzwords mean? Personalization means, that the app is building on the journal entry on the user, providing him with personalized quests to help his mood. The gamified approach is basically an XP-System which rewards the user for making a journal entry or doing quests. A higher XP also means a higher rank within the app, making it truly gamified - even though it is of course more symbolic of what could be possible with future versions.
 
 ## Features
 
