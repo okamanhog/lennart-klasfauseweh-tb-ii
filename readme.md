@@ -59,7 +59,8 @@ Your shared knowledge and solutions have been invaluable.
 This is the second version of this app, the major changes include:
 
 - Simplification and downscaling: After receiving feedback from the first version that the app is overwhelming, I scaled down a bit. That means: Maximum 5 questions with 5 choices each. Each question only accepts one answer rather than being a survey-like app as the previous version.
-- Lighter design choices: Also after feedback that my app is too dark, I switched to a light green theme with emojis throughout all parts of the apps and engaging sayings from Skipper and Kowalski from Penguins of Madagascar. 
+- Lighter design choices: Also after feedback that my app is too dark, I switched to a light green theme with emojis throughout all parts of the apps and engaging sayings from Skipper and Kowalski from Penguins of Madagascar.
+- Code cleanliness and documentation: The code was redone from zero with another approach, using more definitions instead of complicated nested constructions. Every line which is not straightforward is explained and referenced.
 - Data saving structure to actually save daily entries, add multiple entries and retrieve them.
 - Comprehensive data analysis beyond just using the choices to prompt the quests.
 - Multiple pages to choose from with navigation back and force.
