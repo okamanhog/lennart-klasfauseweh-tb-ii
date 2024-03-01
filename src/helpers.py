@@ -13,7 +13,7 @@ def set_background(root, image_file_path):
     label = tk.Label(root, image=photo)
     label.image = photo  # To prevent garbage collection
     label.place(x=0, y=0, relwidth=1, relheight=1)
-    label.lower() # places it a layer lower so it does not overlap with the xp counter
+    label.lower() # places it a layer lower so it does not overlap with the xp counter, Reference: https://dafarry.github.io/tkinterbook/canvas.htm#Tkinter.Canvas.tag_lower-method
 
 
 def clear_widgets(root, exclude=[]):
