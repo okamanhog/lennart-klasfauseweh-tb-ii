@@ -203,7 +203,7 @@ def store_choice(choice, page_count):
         else:
             journal_text()
     else:
-        print("Invalid page count or questionnaire already completed.")
+        messagebox.showinfo("Error", "Invalid page count or questionnaire already completed.")
 
 
 def questionaire(page_count):
